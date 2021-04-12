@@ -1,0 +1,70 @@
+[
+    {
+        "player":"Ms Dhoni",
+        "status":"WK captain"
+    },
+    {
+        "player":"Faf du Plessis",
+        "status":"BatsMan"
+    },
+    {
+        "player":"Suresh Raina",
+        "status":"BatsMan"
+    },
+    {
+        "player":"Ambati Rayudu",
+        "status":"BatsMan"
+    },
+    {
+        "player":"N. Jagadeesan",
+        "status":"WK BatsMan"
+    },
+    {
+        "player":"Robin Uthappa",
+        "status":"BatsMan"
+    },
+    {
+        "player":"Ravindra Jadeja",
+        "status":"All Rounder"
+    },
+    {
+        "player":"Sam Curran",
+        "status":"All Rounder"
+    },
+    {
+        "player":"Dwayne Bravo",
+        "status":"All Rounder"
+    },
+    {
+        "player":"Mitchell Santner",
+        "status":"All Rounder"
+    },
+    {
+        "player":"Moeen Ali",
+        "status":"All Rounder"
+    },
+    {
+        "player":"Jason Behrendorff",
+        "status":"Bowler"
+    },
+    {
+        "player":"K Gowtham",
+        "status":"Bowler"
+    },
+    {
+        "player":"C Hari Nishanth",
+        "status":"Bowler"
+    },
+    {
+        "player":"Lungi Ngidi",
+        "status":"Bowler"
+    },
+    {
+        "player":"Shardul Thakur",
+        "status":"Bowler"
+    },
+    {
+        "player":"Deepak Chahar",
+        "status":"Bowler"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "player":"Raina",
+        "team":"CSK",
+        "status":"/img/batsman.svg"
+    },
+    {
+        "id": "2",
+        "player":"ShikharDhawan",
+        "team":"DC",
+        "status":"/img/batsman.svg"
+    },
+    {
+        "id": "3",
+        "player":"Maxwell",
+        "team":"RCB",
+        "status":"/img/batsman.svg"
+    },
+    {
+        "id": "4",
+        "player":"Rana",
+        "team":"KKR",
+        "status":"/img/batsman.svg"
+    },
+    {
+        "id": "5",
+        "player":"Sam Curran",
+        "team":"CSK",
+        "status":"/img/all.svg"
+    },
+    {
+        "id": "6",
+        "player":"M.Ali",
+        "team":"CSK",
+        "status":"/img/all.svg"
+    },
+    {
+        "id": "7",
+        "player":"Rasid Khan",
+        "team":"SRH",
+        "status":"/img/bowler.svg"
+    },
+    {
+        "id": "8",
+        "player":"Pat Cummins",
+        "team":"KKR",
+        "status":"/img/bowler.svg"
+    },
+    {
+        "id": "9",
+        "player":"ShardulThakur",
+        "team":"CSK",
+        "status":"/img/bowler.svg"
+    },
+    {
+        "id": "10",
+        "player":"Bolt",
+        "team":"MI",
+        "status":"/img/bowler.svg"
+    },
+    {
+        "id": "11",
+        "player":"bumra",
+        "team":"MI",
+        "status":"/img/bowler.svg"
+    }
+]
